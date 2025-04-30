@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto do zero programação
+Projeto do zero
